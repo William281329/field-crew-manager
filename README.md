@@ -196,7 +196,7 @@ modelo:
 
 <span>
 <!--link github aqui -->
- <a href="https://github.com/William2819">
+ <a href="https://github.com/William281329">
  <!-- card aqui -->
   <img src="https://user-images.githubusercontent.com/111146527/227824530-56baae99-7d2f-469a-9157-4cf0816dab30.png" width="350px">
  </a>
